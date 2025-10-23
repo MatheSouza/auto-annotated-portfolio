@@ -14,9 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Sou desenvolvedor, criador digital e apaixonado por tecnologia.Transformo
-      ideias em sistemas, sites e soluções que realmente funcionam. Continue
-      rolando e descubra como posso ajudar o seu negócio a evoluir com
+      Sou desenvolvedor, criador digital e apaixonado por tecnologia.
+
+      Transformo ideias em sistemas, sites e soluções que realmente funcionam.
+      Continue rolando e descubra como posso ajudar o seu negócio a evoluir com
       tecnologia.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
