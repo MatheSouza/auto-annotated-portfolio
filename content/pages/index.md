@@ -14,8 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Sou desenvolvedor, criador digital e apaixonado por tecnologia.
+
+      Transformo ideias em sistemas, sites e soluções que realmente funcionam.
+      Continue rolando e descubra como posso ajudar o seu negócio a evoluir com
+      tecnologia.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
